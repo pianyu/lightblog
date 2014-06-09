@@ -14,7 +14,7 @@
                     "其他": "posts",
                     "关于我的博客": "README.md"},
     "template"    : "pithiness",
-    "domain_alias" :  ["lightblog.pianyu.gitpress.org"],    
+    "domain_alias" :  ["summercicada.tk"],    
     "perpage"   : 8,
     "order"  : "number",
     "types"     : {
