@@ -1,5 +1,5 @@
 {
-    "docs"      : ["android": "/android", "java": "/java","C": "/c", "shell": "/shell","php": "/php", "node.js": "/nodejs","bootstrap": "/bootstrap","R": "/r"],
+    "docs"      : ["android": "/android", "java": "/java", "C": "/c", "shell": "/shell", "php": "/php", "node.js": "/nodejs", "bootstrap": "/bootstrap", "R": "/r"],
     "template"    : "pithiness",
     "domain_alias" :  ["lightblog.pianyu.gitpress.org"],    
     "perpage"   : 10,
