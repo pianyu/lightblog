@@ -1,0 +1,28 @@
+{
+    "docs"      : ["android": "/android", "java": "/java","C": "/c", "shell": "/shell","php": "/php", "node.js": "/nodejs","bootstrap":"/bootstrap"],
+    "template"    : "pithiness",
+    "domain_alias" :  ["your.domain"],    
+    "perpage"   : 10,
+    "order"  : "number",
+    "types"     : {
+        "\\.(md||markdown)$"   : "markdown", 
+        "\\.(js||css||json)$"  : "code",
+        "\\.html?$"            : "html",
+        ".*"                   : "text"        
+    },
+    "title"  : "SummerCicada's Blog",
+    "description" : "Life is struggle, just be silly and be yourself",
+    "comment"  : {"type":"disqus", "short_name":"gitpress"},
+    "friends"  : [
+        {
+          "name"  : "github",
+          "title"  : "github",
+          "url"  : "http://github.com"          
+        },
+        {
+          "name"  : "gitpress",
+          "title"  : "gitpress",
+          "url"  : "http://gitpress.org"
+        }
+    ] 
+}
