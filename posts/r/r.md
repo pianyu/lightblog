@@ -1,7 +1,7 @@
 #<center>这是R的开始<center/>
 <br/>
 
-<center>![图标](http://cms.csdnimg.cn/articlev1/uploads/allimg/120520/79_120520153049_1.png "R应用")</center>
+<center>![图标](http://pianyu.github.io/summercicada/images/R1.png "R应用")</center>
 
 &emsp;&emsp;R是一套完整的数据处理、计算和制图软件系统。其功能包括：数据存储和处理系统；数组运算工具（其向量、矩阵运算方面功能尤其强大）；完整连贯的统计分析工具；优秀的统计制图功能；简便而强大的编程语言：可操纵数据的输入和输出，可实现分支、循环，用户可自定义功能。<br/>
 
