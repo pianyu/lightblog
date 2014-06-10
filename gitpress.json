@@ -13,10 +13,10 @@
                     "markdown": "posts/markdown",
                     "其他": "posts",
                     "关于我的博客": "README.md"},
-    "template"    : "phase",
+    "template"    : "slate",
     "domain_alias" :  ["summercicada.tk"],    
     "perpage"   : 8,
-    "order"  : "number",
+    "order"  : "~text",
     "types"     : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
