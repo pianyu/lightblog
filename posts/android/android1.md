@@ -1,4 +1,5 @@
 #<center>android架构图
+
 <center>![ops！！！这是android架构图](http://images.cnblogs.com/cnblogs_com/skynet/WindowsLiveWriter/Androidandroid_1C63/Android_system_architecture_2.jpg)</center>
 
 ###<center>android架构有五部分组成</center>###
