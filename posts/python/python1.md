@@ -9,4 +9,4 @@
 <br/>
 <br/>
 <br/>
-<center><p style="color:#879a4c"><font size="4">Copyright &copy; 2014 SummerCidaca</font></p></center>
+<center><p style="color:#879a4c"><font size="4">Copyright &copy; 2014 SummerCicada</font></p></center>
