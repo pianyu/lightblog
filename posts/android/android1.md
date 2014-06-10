@@ -1,6 +1,6 @@
 #<center>android架构图
 
-<center>![ops！！！这是android架构图](http://images.cnblogs.com/cnblogs_com/skynet/WindowsLiveWriter/Androidandroid_1C63/Android_system_architecture_2.jpg)</center>
+<center>![ops！！！这是android架构图](http://pianyu.github.io/summercicada/images/Android_system_architecture_2.jpg)</center>
 
 ###<center>android架构有五部分组成</center>###
    **linux kernel:**最android最底层，负责提供设备驱动，并向上提供可以调用这些驱动的接口。  
