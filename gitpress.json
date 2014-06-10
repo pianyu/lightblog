@@ -15,7 +15,7 @@
                     "关于我的博客": "README.md"},
     "template"    : "pithiness",
     "domain_alias" :  ["summercicada.tk"],    
-    "perpage"   : 8,
+    "perpage"   : 6,
     "order"  : "~text",
     "types"     : {
         "\\.(md||markdown)$"   : "markdown", 
