@@ -13,7 +13,7 @@
                     "markdown": "posts/markdown",
                     "其他": "posts",
                     "关于我的博客": "README.md"},
-    "template"    : "tactile",
+    "template"    : "phase",
     "domain_alias" :  ["summercicada.tk"],    
     "perpage"   : 8,
     "order"  : "number",
