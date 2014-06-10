@@ -23,4 +23,4 @@
 <br/>
 <br/>
 
-<center>**Copyright &copy; 2014 SummerCicada**</center>
+<center><p><font size="4">Copyright &copy; 2014 SummerCidaca</font></p></center>
