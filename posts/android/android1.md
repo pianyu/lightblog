@@ -15,7 +15,7 @@
 
 ###<center>[更多详情](http://mobile.51cto.com/android-235496.htm "Google工程师多图详解Android系统架构")</center>###
 
-<center>`system.out.println("这是summercicada的第一篇文章/n");`
+<center>`System.out.println("这是summercicada的第一篇文章/n");`
 
 <center> markdown实现代码显示的方法有三种：``,至少**四个空格**,或***tab键***（换挡键）
 
