@@ -13,7 +13,8 @@
                     "markdown": "posts/markdown",
                     "其他": "posts",
                     "关于我的博客": "README.md"},
-    "template"    : "pithiness",
+    "template"    : "pithiness",  
+    "domain_alias" :  ["www.summercicada.tk"],    
     "perpage"   : 6,
     "order"  : "~text",
     "types"     : {
