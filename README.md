@@ -1,4 +1,4 @@
 SummerCicada'blog
 =========
 
-Life is struggle,just be silly and be yourself
+花花世界，贵在只取一隅。
